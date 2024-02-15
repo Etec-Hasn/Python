@@ -1,0 +1,3 @@
+Formas de utilizar o python
+-via command (cmd)
+-gravado via S.O 
